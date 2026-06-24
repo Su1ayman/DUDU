@@ -1,0 +1,6 @@
+{
+  "name": "DUDU",
+  "description": "Your ultimate e-commerce destination for trendy fashion, electronics, beauty, and lifestyle essentials. Shop curated collections, enjoy daily flash sales, and experience lightning-fast checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
